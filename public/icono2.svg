@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Fondo cuadrado redondeado morado marca (contrasta en modo claro y oscuro) -->
+  <rect width="64" height="64" rx="16" fill="#4A354F" />
+  
+  <!-- Acento de color durazno y lila en la base -->
+  <path d="M12 45 L32 31 L52 45 Z" fill="#F4C2B0" opacity="0.9" />
+  
+  <!-- Percha gruesa y nítida en tono crema -->
+  <path d="M27 18 C27 14 37 14 37 18 C37 22 32 23 32 27 L10 43 C8 44.5 9 47 11.5 47 L52.5 47 C55 47 56 44.5 54 43 L32 27" fill="none" stroke="#FAF5F0" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" />
+        
+  <!-- Destello de asesoría IA en lila claro -->
+  <path d="M49 12 L51 17 L56 19 L51 21 L49 26 L47 21 L42 19 L47 17 Z" fill="#D5C6E8" />
+</svg>
